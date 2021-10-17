@@ -1,7 +1,7 @@
-#Link para Documentação de algumas linguagens
+# Link para Documentação de algumas linguagens
 
-##Markdown
+## Markdown
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
-##Linguagens de Programação
+## Linguagens de Programação
 [DevDocs](https://devdocs.io/)
